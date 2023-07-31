@@ -1,0 +1,40 @@
+{
+	"name": "ECIS-LITE-G",
+	"version": "1.0.0.0",
+	"description": "ECIS ReturnBox Lite, Mini SW for Goverment",
+	"id": "com.thegreet.ECISlite",
+	"unique-id": "hs4xwn22bjr",
+	"viewport-width": 1920,
+	"viewport-height": 1080,
+	"author": "유승환",
+	"email": "jonathan.yoo@thegreet.co.kr",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r350",
+	"ife": false,
+	"used-plugins": [
+		"Sprite",
+		"Text",
+		"Arr",
+		"Dictionary",
+		"Json",
+		"AJAX",
+		"Browser",
+		"Keyboard",
+		"LocalStorage",
+		"Touch",
+		"video",
+		"Audio",
+		"Date",
+		"Mouse",
+		"Button",
+		"FileSystem",
+		"sliderbar"
+	],
+	"used-behaviors": [
+		"Tween",
+		"Fade",
+		"Timer"
+	]
+}
